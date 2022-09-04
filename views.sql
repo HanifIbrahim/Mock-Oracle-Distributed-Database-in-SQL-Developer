@@ -1,4 +1,4 @@
-
+/*view creation*/
 ---------To fetch the branches---------
 CREATE VIEW ALL_BRANCH_VIEW AS
 SELECT
